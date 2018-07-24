@@ -45,7 +45,7 @@
 
 * For the new library request issue, please make sure it's not a *personal* project, we have a basic requirement for the popularity, like **200** stars on GitHub or **800** downloads/month on npm registry.
 
-* The new library must have at least one officially public accessable repository and open source license.
+* The new library must have at least one officially public accessible repository and open source license.
 
 ## B. pull request
 
@@ -113,9 +113,9 @@
 1. Libraries are stored in the ajax/libs directory. Each library has its own subdirectory of ajax/libs and each version of the library has its own subdirectory of the library directory name, for example:
  > /ajax/libs/jquery/2.0.0/
 
-2. We use [`package.json`](https://www.npmjs.org/doc/package.json.html) to store the meta data of a library in [npm format](https://www.npmjs.org/doc/package.json.html), please don't forget to add this file at the root of the lib.
+2. We use [`package.json`](https://docs.npmjs.com/getting-started/using-a-package.json) to store the meta data of a library in [npm format](https://docs.npmjs.com/getting-started/using-a-package.json), please don't forget to add this file at the root of the lib.
  * If there is an official `package.json`, please try to follow the official version, the best way is just copy from the official and do a little modification of it.
- * If there is **not** an official `package.json`, please **create** it by yourself, you should refer to [doc of package.json](https://www.npmjs.org/doc/package.json.html) or other lib's `package.json`, and the data should be as close as official data as possible.
+ * If there is **not** an official `package.json`, please **create** it by yourself, you should refer to [doc of package.json](https://docs.npmjs.com/getting-started/using-a-package.json) or other lib's `package.json`, and the data should be as close as official data as possible.
   * The indent of `package.json` **must** be `2 spaces`
   * Please use [JSONLint](http://jsonlint.com/) to validate your `package.json`.
 

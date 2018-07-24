@@ -4,14 +4,14 @@
     {
       "basePath": "dist",
       "files": [
-        "!(*.flow)"
+        "!(*.flow|*.ts)"
       ]
     }
   ],
   "name": "moment-range",
-  "version": "3.1.0",
+  "version": "4.0.1",
   "description": "Fancy date ranges for Moment.js",
-  "filename": "moment-range.min.js",
+  "filename": "moment-range.js",
   "keywords": [
     "date",
     "moment",

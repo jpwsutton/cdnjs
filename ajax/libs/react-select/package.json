@@ -1,7 +1,7 @@
 {
   "name": "react-select",
   "filename": "react-select.min.js",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "A Select control built with and for ReactJS",
   "author": "Jed Watson",
   "license": "MIT",
@@ -25,7 +25,7 @@
     {
       "basePath": "dist",
       "files": [
-        "**/*"
+        "**/!(react-select.es.js|*.flow|*.esm.js)"
       ]
     }
   ]

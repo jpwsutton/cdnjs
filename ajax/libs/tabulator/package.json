@@ -1,6 +1,6 @@
 {
   "name": "tabulator",
-  "version": "3.3.2",
+  "version": "3.5.3",
   "description": "An easy to use table generation JQuery UI Plugin",
   "filename": "js/tabulator.min.js",
   "repository": {

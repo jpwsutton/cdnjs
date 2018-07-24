@@ -1,7 +1,7 @@
 {
   "name": "angular-recaptcha",
   "filename": "angular-recaptcha.min.js",
-  "version": "4.1.2",
+  "version": "4.1.5",
   "description": "An AngularJS module to ease usage of reCaptcha inside a form",
   "keywords": [
     "angular",

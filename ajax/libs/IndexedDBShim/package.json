@@ -1,7 +1,7 @@
 {
   "name": "IndexedDBShim",
   "filename": "indexeddbshim.min.js",
-  "version": "3.3.1",
+  "version": "3.8.0",
   "author": "Parashuram <code@nparashuram.com>",
   "description": "A polyfill for IndexedDB using WebSql",
   "repository": {

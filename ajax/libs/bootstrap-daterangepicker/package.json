@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-daterangepicker",
   "filename": "daterangepicker.min.js",
-  "version": "2.1.27",
+  "version": "3.0.3",
   "description": "Date range picker component for Bootstrap",
   "repository": {
     "type": "git",

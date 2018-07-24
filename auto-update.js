@@ -164,7 +164,10 @@ var processNewVersion = function (pkg, version) {
   var updated = false;
   _.each(npmFileMap, function (fileSpec) {
     var basePath = fileSpec.basePath || '';
-
+    if (fileSpec.files.length === 0) {
+      fs.mkdirsSync(libPath);
+      return;
+    }
     _.each(fileSpec.files, function (file) {
       var libContentsPath = path.normalize(path.join(extractLibPath, basePath));
       if (!isAllowedPath(libContentsPath)) {

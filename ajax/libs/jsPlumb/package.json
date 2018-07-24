@@ -1,6 +1,6 @@
 {
   "name": "jsPlumb",
-  "version": "2.5.12",
+  "version": "2.7.10",
   "filename": "js/jsplumb.min.js",
   "description": "Visual connectivity for webapps",
   "homepage": "http://jsplumbtoolkit.com",
@@ -28,6 +28,12 @@
       "basePath": "dist",
       "files": [
         "**/*"
+      ]
+    },
+    {
+      "basePath": "",
+      "files": [
+        "css/jsplumbtoolkit-defaults.css"
       ]
     }
   ]

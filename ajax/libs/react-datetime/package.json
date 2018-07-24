@@ -1,6 +1,6 @@
 {
   "name": "react-datetime",
-  "version": "2.11.1",
+  "version": "2.14.0",
   "filename": "react-datetime.min.js",
   "description": "A lightweight but complete datetime picker React.js component.",
   "repository": {

@@ -9,10 +9,10 @@
       ]
     }
   ],
-  "filename": "Rx.min.js",
+  "filename": "rxjs.umd.min.js",
   "title": "Reactive Extensions for JavaScript (RxJS)",
   "description": "Library for composing asynchronous and event-based operations in JavaScript",
-  "version": "5.5.6",
+  "version": "6.2.2",
   "author": {
     "name": "Cloud Programmability Team",
     "url": "https://github.com/Reactive-Extensions/RxJS/blob/master/authors.txt"

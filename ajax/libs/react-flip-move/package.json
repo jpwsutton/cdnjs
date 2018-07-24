@@ -2,7 +2,7 @@
   "name": "react-flip-move",
   "filename": "react-flip-move.min.js",
   "homepage": "https://joshwcomeau.github.io/react-flip-move/examples",
-  "version": "2.10.1",
+  "version": "3.0.2",
   "description": "Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.",
   "author": "Joshua Comeau <joshwcomeau@gmail.com>",
   "repository": {
@@ -24,7 +24,7 @@
     {
       "basePath": "dist",
       "files": [
-        "**/!(*.gz)"
+        "**/!(*.gz|react-flip-move.cjs.js|react-flip-move.es.js)"
       ]
     }
   ],

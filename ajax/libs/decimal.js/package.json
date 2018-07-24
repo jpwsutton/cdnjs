@@ -2,7 +2,7 @@
   "name": "decimal.js",
   "filename": "decimal.min.js",
   "description": "An arbitrary-precision Decimal type for JavaScript.",
-  "version": "9.0.1",
+  "version": "10.0.1",
   "homepage": "https://mikemcl.github.io/decimal.js/",
   "keywords": [
     "arbitrary",

@@ -38,6 +38,12 @@
         "files": [
           "zrender*"
         ]
+      },
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
       }
     ]
   }

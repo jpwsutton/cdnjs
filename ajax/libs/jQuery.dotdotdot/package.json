@@ -1,7 +1,7 @@
 {
   "name": "jQuery.dotdotdot",
   "filename": "jquery.dotdotdot.js",
-  "version": "3.1.0",
+  "version": "3.2.2",
   "homepage": "http://dotdotdot.frebsite.nl/",
   "description": "A jQuery plugin for advanced cross-browser ellipsis on multiple line content.",
   "keywords": [

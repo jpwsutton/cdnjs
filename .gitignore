@@ -15,6 +15,17 @@ node_modules/
 /ajax/libs/*/*/.bot_cant_auto_add
 
 # folders need to be ingored due to auto auto-update mechanism
+/ajax/libs/interactive-data-display/1.0.1-DomTracking
+/ajax/libs/bxslider/*/jquery-3.1.1.min.js
+/ajax/libs/starability/v.0.1.0
+/ajax/libs/interactive-data-display/*build*
+/ajax/libs/uikit/*-dev.*
+/ajax/libs/jspdf/v.1.4.0/
+/ajax/libs/rrssb/1.75
+/ajax/libs/rrssb/1.76
+/ajax/libs/tocas-ui/2.0.0-rc.*
+/ajax/libs/design-system/2.6.0-dev
+/ajax/libs/mini.css/3.0.0-alpha.3
 /ajax/libs/mdbootstrap/4.4.0-dev
 /ajax/libs/esri-leaflet-geocoder/2.2.5
 /ajax/libs/vega-tooltip/0.3.1
@@ -26,6 +37,7 @@ node_modules/
 /ajax/libs/crypto-js/release-3.1.2*
 /ajax/libs/inferno-create-class/*-alpha.*
 /ajax/libs/trackpad-scroll-emulator/version_1.0
+/ajax/libs/interactive-data-display/1.0.1-DomTracking
 /ajax/libs/date-fns/v.*
 /ajax/libs/react-quill/02e9da4/
 /ajax/libs/inferno-test-utils/*-alpha.*
@@ -39,6 +51,7 @@ node_modules/
 /ajax/libs/tachyons/v.4.5.0
 /ajax/libs/onsen/0.6.0/
 /ajax/libs/avalon.js/2.1.16ee/
+/ajax/libs/angular-ui-router/*-SNAPSHOT*
 /ajax/libs/systemjs-plugin-json/0.1.0/
 /ajax/libs/inferno-devtools/*-alpha.*
 /ajax/libs/redux-form/6.0.3/
@@ -82,6 +95,8 @@ node_modules/
 /ajax/libs/foundation/undefined/
 /ajax/libs/messenger/.1.5.0/
 /ajax/libs/wavesurfer.js/marky-boy_2006-01-11/
+/ajax/libs/wavesurfer.js/1.0.23
+/ajax/libs/wavesurfer.js/1.0.26
 /ajax/libs/require-i18n/latest/
 /ajax/libs/agility/0.1.0-docs/
 /ajax/libs/jquery-countdown/Release_1*
@@ -106,6 +121,7 @@ node_modules/
 /ajax/libs/PhysicsJS/physicsjs-*
 /ajax/libs/diva.js/RELEASE-*/
 /ajax/libs/LoadGo/1.0/
+/ajax/libs/loadCSS/2.0.0-[2-4]
 /ajax/libs/nunjucks/v.1.3.1
 /ajax/libs/angular-bootstrap-colorpicker/push/
 /ajax/libs/weather-icons/1.1endpoint
@@ -184,6 +200,8 @@ node_modules/
 /ajax/libs/jsSHA/release*
 /ajax/libs/postscribe/ersion
 /ajax/libs/react-router/latest/
+/ajax/libs/react-mdl/0.*
+/ajax/libs/react-mdl/1.0.[0-1]
 /ajax/libs/angular-gantt/.0.6.1
 /ajax/libs/jquery-form-validator/2.2
 /ajax/libs/require-cs/latest/
@@ -237,6 +255,13 @@ node_modules/
 /ajax/libs/angular-gridster/v.0.10.4
 /ajax/libs/numbered/0.0.4
 /ajax/libs/numbered/1.0.0
+/ajax/libs/jquery-bracket/release-*
+/ajax/libs/jquery.ime/1.0.0+20131229
+/ajax/libs/v-mask/1.[0-2].*
+/ajax/libs/typebase.css/0.5
+
+#ignore snapshot tags
+/ajax/libs/*/*snapshot*
 
 #ignore files that we don't need
 /ajax/libs/*/*/**/Gruntfile.js

@@ -1,6 +1,6 @@
 {
   "name": "cplayer",
-  "version": "3.1.6",
+  "version": "3.2.1",
   "description": "A beautiful and clean WEB Music Player by HTML5.",
   "keywords": [
     "cPlayer",
@@ -25,7 +25,7 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "**/cplayer*.+(js|css|map)"
         ]
       }
     ]

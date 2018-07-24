@@ -1,6 +1,6 @@
 {
   "name": "scion",
-  "version": "3.1.5",
+  "version": "4.3.1",
   "description": "An implementation of SCXML in JavaScript.",
   "keywords": [
     "scxml",

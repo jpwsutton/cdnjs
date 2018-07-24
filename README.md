@@ -69,7 +69,7 @@ See each repos' GitHub contributors graph, e.g.
  - [atom-extension](https://github.com/cdnjs/atom-extension/graphs/contributors)
  - [tutorials](https://github.com/cdnjs/tutorials/graphs/contributors)
  - [buildScript](https://github.com/cdnjs/buildScript/graphs/contributors)
- - [cdnjs-importer](https://github.com/cdnjs/cdnjs-importer)
+ - [cdnjs-importer](https://github.com/cdnjs/cdnjs-importer/graphs/contributors)
 
 or [gitstats](https://github.com/cdnjs?utf8=✓&q=gitstats), [git_stats](https://github.com/cdnjs?utf8=✓&q=git_stats)
 

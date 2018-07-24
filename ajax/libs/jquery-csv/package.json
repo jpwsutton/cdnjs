@@ -1,7 +1,7 @@
 {
   "name": "jquery-csv",
   "filename": "jquery.csv.min.js",
-  "version": "0.8.3",
+  "version": "0.8.9",
   "description": "A jQuery CSV parser plugin. Battle Tested | Optimized | 100% IETF RFC 4180 Complete",
   "keywords": [
     "jquery",

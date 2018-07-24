@@ -3,7 +3,7 @@
   "filename": "phaser.min.js",
   "version": "2.6.2",
   "description": "A fast, free and fun HTML5 Game Framework for Desktop and Mobile web browsers.",
-  "homepage": "http://phaser.io/",
+  "homepage": "https://phaser.io/",
   "keywords": [
     "HTML5",
     "game",
@@ -25,9 +25,9 @@
   "npmName": "phaser",
   "npmFileMap": [
     {
-      "basePath": "build",
+      "basePath": "dist",
       "files": [
-        "**/!(*.php)"
+        "**/*"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 {
   "name": "falcor",
-  "version": "1.0.3",
+  "version": "2.0.2",
   "filename": "falcor.all.min.js",
   "description": "A JavaScript library for efficient data fetching.",
   "author": {
